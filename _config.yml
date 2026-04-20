@@ -23,12 +23,12 @@ repository               : "206702346/206702346.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/assets/images/avatar.jpg"
+  avatar           : "/images/avatar.jpg"
   name             : "吴智明"
   pronouns         : # example: "she/her"  
   bio              : "东北大学计算机科学与技术本科生，关注智明喵，关注智明谢谢喵。"
-  location         : "东北大学"
-  employer         : "Red Brick University"
+  location         : "广西北海"
+  employer         : "东北大学"
   uri              : # URL
   email            : "wzmywdz@163.com" 
 
