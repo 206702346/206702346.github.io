@@ -59,4 +59,4 @@ author_profile: true
 
 ## 简历下载
 
-[点击下载我的 PDF 简历](/assets/files/WuZhiming_CV.pdf)
+[点击下载我的 PDF 简历](/files/wzm_CV.pdf)
