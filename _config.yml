@@ -23,7 +23,8 @@ repository               : "206702346/206702346.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.jng"
+  avatar           : "avatar.jpg"
+  #avatar           : "/avatar.jpg"
   name             : "吴智明"
   pronouns         : # example: "she/her"  
   bio              : "东北大学计算机科学与技术本科生，关注智明喵，关注智明谢谢喵。"
