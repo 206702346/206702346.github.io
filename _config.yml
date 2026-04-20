@@ -13,7 +13,7 @@ title                    : "吴智明 / 个人主页"
 title_separator          : "-"
 name                     : &name "吴智明"
 description              : &description "东北大学计算机科学与技术本科生，关注智明喵，关注智明谢谢喵。"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://206702346.github.io",
+url                      : https://206702346.github.io # The base hostname & protocol for your site e.g. "https://206702346.github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "206702346/206702346.github.io"
@@ -23,7 +23,7 @@ repository               : "206702346/206702346.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/avatar.jpg"
+  avatar           : "/assets/images/avatar.jpg"
   name             : "吴智明"
   pronouns         : # example: "she/her"  
   bio              : "东北大学计算机科学与技术本科生，关注智明喵，关注智明谢谢喵。"
